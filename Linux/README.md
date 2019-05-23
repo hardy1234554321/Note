@@ -1,7 +1,5 @@
-<h1>Linux memo</h1>
-<hr>
+# Linux memo
+---
 
-<ul>
-    <li><a href='vim設定.md'>vim設定</a></li>
-    <li><a href='Ubuntu安裝設定.md'>Ubuntu安裝設定</a></li>    
-</ul>
+* [vim設定](vim設定.md)
+* [Ubuntu安裝設定](Ubuntu安裝設定.md)
