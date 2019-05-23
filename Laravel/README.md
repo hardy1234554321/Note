@@ -1,6 +1,7 @@
-<h1>Laravel memo</h1>
-<hr>
+# Laravel memo
+---
 
-<ul>
-    <li><a href='安裝步驟.md'>安裝步驟</a></li>    
-</ul>
+
+* [安裝步驟](安裝步驟.md)
+* [目錄結構](目錄結構.md)
+* [Route基本介紹](Route基本介紹.md)

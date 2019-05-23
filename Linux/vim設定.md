@@ -1,15 +1,14 @@
-<h2>vim設定</h2>
-<hr>
+# vim設定
+---
 
-<b>建立vim設定檔.vimrc</b><br>
+**建立vim設定檔.vimrc**
 >`cd ~`
-
 >`vim .vimrc`
 
-<b>常用設定</b><br>
+**常用設定**
 
-    :set nu
-    :set ai
-    :set bg=dark
-    :set tabstop=4
-    :set shiftwidth=4
+>`:set nu`
+>`:set ai`
+>`:set bg=dark`
+>`:set tabstop=4`
+>`:set shiftwidth=4`
